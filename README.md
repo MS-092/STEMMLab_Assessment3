@@ -9,7 +9,7 @@ An educational mobile application for students to explore Science, Technology, E
 - **Live Recording** - Record and document sounds using your device's microphone
 - **Experiment Log** - Track observations and reflections
 - **Predictions vs Measurements** - Compare predicted vs actual decibel levels
-- **Bilingual Support** - Available in English and Indonesian (Bahasa Indonesia)
+- **Bilingual Support** - Currently available in English and Indonesian (Bahasa Indonesia)
 
 ## Tech Stack
 
@@ -31,10 +31,10 @@ An educational mobile application for students to explore Science, Technology, E
 
 ```bash
 # Install dependencies
-npm install
+npm i
 
 # Start the development server
-npm start
+npm expo start
 
 # Run on iOS
 npm run ios
@@ -70,8 +70,4 @@ The app supports:
 - English (en)
 - Indonesian (id)
 
-Switch languages in Settings > Language.
-
-## Version
-
-1.0.0
+Switch languages in Settings > Language
