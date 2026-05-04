@@ -1,5 +1,7 @@
 # STEMM Lab Sound Hunter
 
+Presentation files are inside of Github, or you can access through this link: [Presentation Assessment 3](https://docs.google.com/presentation/d/1lpSeD2d_SalDQMnkuK1sOEL3TeCWQ7Y4y8VpQzj78vQ/edit?usp=sharing)
+
 An educational mobile application for students to explore Science, Technology, Engineering, Mathematics, and Medicine (STEMM) through hands-on sound experiments and activities.
 
 ## Features
